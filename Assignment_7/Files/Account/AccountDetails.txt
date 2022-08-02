@@ -1,0 +1,8 @@
+A/C No.: 1234567890
+Customer Name.: Isan Bain
+Balance.: 15000
+
+A/C No.: 1523483123
+Customer Name.: Dia Roy
+Balance.: 26000
+

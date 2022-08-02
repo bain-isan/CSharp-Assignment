@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\bin\Debug\Test.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\bin\Debug\Test.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\bin\Debug\Test.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\bin\Debug\LitwareLib.dll
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\bin\Debug\LitwareLib.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\obj\Debug\Test.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Test\obj\Debug\Test.pdb

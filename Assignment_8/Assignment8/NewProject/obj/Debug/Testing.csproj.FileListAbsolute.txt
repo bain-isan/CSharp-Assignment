@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\Testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\bin\Debug\NewProject.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\bin\Debug\NewProject.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\bin\Debug\NewProject.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\bin\Debug\Assignment8.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\bin\Debug\Assignment8.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\bin\Debug\Assignment8.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\Testing.csproj.CopyComplete
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\NewProject.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\NewProject.pdb

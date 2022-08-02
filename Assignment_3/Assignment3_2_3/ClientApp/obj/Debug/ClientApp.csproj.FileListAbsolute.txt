@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\bin\Debug\Assignment3_1.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\bin\Debug\Assignment3_1.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\bin\Debug\Assignment3_1.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\ClientApp\obj\Debug\ClientApp.pdb

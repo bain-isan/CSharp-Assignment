@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LitwareLib">
+      <HintPath>..\..\..\Assignment_2\Assignment2_1\Test\bin\Debug\LitwareLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

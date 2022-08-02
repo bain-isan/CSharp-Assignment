@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Assignment3_1\bin\Debug\Assignment3_1.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Assignment3_1\bin\Debug\Assignment3_1.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Assignment3_1\bin\Debug\Assignment3_1.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Assignment3_1\obj\Debug\Assignment3_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Assignment3_1\obj\Debug\Assignment3_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Assignment3_1\obj\Debug\Assignment3_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Assignment3_1\obj\Debug\Assignment3_1.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Assignment3_1\obj\Debug\Assignment3_1.pdb

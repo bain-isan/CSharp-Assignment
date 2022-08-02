@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\Assignment6_.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\Assignment6_.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\Assignment6_.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\Employee_Management.dll
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\LitwareLib.dll
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\Test.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\Employee_Management.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\LitwareLib.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\Test.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\bin\Debug\Test.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\obj\Debug\Assignment6_.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\obj\Debug\Assignment6_.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\obj\Debug\Assignment6_.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\obj\Debug\Assignment6_.csproj.CopyComplete
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\obj\Debug\Assignment6_.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_6\Assignment6_\Assignment6_\obj\Debug\Assignment6_.pdb

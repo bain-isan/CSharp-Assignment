@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\bin\Debug\netstandard2.0\LitwareLib.deps.json
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\bin\Debug\netstandard2.0\LitwareLib.dll
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\bin\Debug\netstandard2.0\LitwareLib.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\obj\Debug\netstandard2.0\LitwareLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\obj\Debug\netstandard2.0\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\obj\Debug\netstandard2.0\LitwareLib.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\obj\Debug\netstandard2.0\LitwareLib.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\obj\Debug\netstandard2.0\LitwareLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\obj\Debug\netstandard2.0\LitwareLib.dll
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\LitwareLib\obj\Debug\netstandard2.0\LitwareLib.pdb

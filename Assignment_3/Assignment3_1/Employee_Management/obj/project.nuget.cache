@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BoM5Pc/2mYTdGLJIUWwi5FTVJTqI0rhITHYy4/jfYQoRu6A16hH5uoR5KLX8TzvF8TyQPoMBtvN/4WOi1BrKpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\C#_Assignments\\Assignment_3\\Assignment3_1\\Employee_Management\\Employee_Management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

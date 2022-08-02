@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\obj\Debug\Employee_Management.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\obj\Debug\Employee_Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\obj\Debug\Employee_Management.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\obj\Debug\Assignment2_1.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\obj\Debug\Assignment2_1.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\bin\Debug\Assignment2_1.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\bin\Debug\Assignment2_1.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\bin\Debug\Assignment2_1.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\bin\Debug\LitwareLib.dll
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\bin\Debug\LitwareLib.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\obj\Debug\Employee_Management.csproj.CopyComplete
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\bin\Debug\Test.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\bin\Debug\Test.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_2\Assignment2_1\Assignment2_1\bin\Debug\Test.exe.config

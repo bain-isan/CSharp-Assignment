@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\obj\Debug\netstandard2.0\Employee_Management.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\obj\Debug\netstandard2.0\Employee_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\obj\Debug\netstandard2.0\Employee_Management.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\obj\Debug\netstandard2.0\Employee_Management.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\obj\Debug\netstandard2.0\Employee_Management.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\bin\Debug\netstandard2.0\Employee_Management.deps.json
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\bin\Debug\netstandard2.0\Employee_Management.dll
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\bin\Debug\netstandard2.0\Employee_Management.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\bin\Debug\netstandard2.0\LitwareLib.dll
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\bin\Debug\netstandard2.0\LitwareLib.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\obj\Debug\netstandard2.0\Employee_Management.csproj.CopyComplete
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\obj\Debug\netstandard2.0\Employee_Management.dll
+C:\Users\user\Desktop\C#_Assignments\Assignment_3\Assignment3_1\Employee_Management\obj\Debug\netstandard2.0\Employee_Management.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\bin\Debug\NewProject.exe.config
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\bin\Debug\NewProject.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\bin\Debug\NewProject.pdb
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\NewProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\NewProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\NewProject.exe
+C:\Users\user\Desktop\C#_Assignments\Assignment_8\Assignment8\NewProject\obj\Debug\NewProject.pdb
